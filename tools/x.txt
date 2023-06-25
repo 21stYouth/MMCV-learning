@@ -1,0 +1,2 @@
+/test/image1.jpg  /test/depth1.jpg 518.8579
+/test/image2.jpg  /test/depth2.jpg 518.8579
